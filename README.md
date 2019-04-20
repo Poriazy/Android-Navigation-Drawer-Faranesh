@@ -2,7 +2,7 @@
 
 A sample application that shows how navigation drawer works and how to customize it with fragment and recycler view.
 
-## 🤔 How to use it
+### 🤔 How to use it
 
 just clone it!
 ```
