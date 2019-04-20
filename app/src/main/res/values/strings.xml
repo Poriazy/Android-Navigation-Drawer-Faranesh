@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="google_nav_drawer">Google Navigation Drawer</string>
+    <string name="custom_nav_drawer">Custom Navigation Drawer</string>
+    <string name="faranesh">PoriaZed.com - Faranesh</string>
+
+    <!-- custom nav drawer -->
+    <string name="home">خانه</string>
+    <string name="fav_product">محصولات مورد علاقه</string>
+    <string name="daily_offer">تخفیف های روزانه</string>
+    <string name="dark_mode">حالت شب</string>
+    <string name="about_us">درباره ما</string>
+    <string name="exit">خروج</string>
+    <string name="title_activity_google_nav_drawer">Google Nav Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
